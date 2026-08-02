@@ -2,7 +2,7 @@
 
 Cybersecurity Intern @ Cryptonic Area
 
-Aspiring SOC Analyst | Digital Forensics | Incident Response | OSINT
+Security Monitoring | Incident Response | Digital Forensics | OSINT
 
 ---
 
