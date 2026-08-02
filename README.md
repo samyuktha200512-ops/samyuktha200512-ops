@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Samyuktha
 
-Cybersecurity Intern at **Cryptonic Area** | Aspiring SOC Analyst | Blue Team Enthusiast
+Cybersecurity Intern @ Cryptonic Area
+
+Aspiring SOC Analyst | Digital Forensics | Incident Response | OSINT
 
 ---
 
@@ -33,11 +35,14 @@ I'm currently building hands-on cybersecurity projects and documenting my invest
 
 ## 📂 Featured Projects
 
-📧 **Email Threat Investigation**
+📧 Email Threat Investigation
+> Investigated phishing emails, analyzed headers, extracted IOCs, and documented findings.
 
-🌐 **OSINT Website Investigation**
+🌐 OSINT Website Investigation
+> Performed passive reconnaissance using WHOIS, DNS, SSL, security headers, and subdomain enumeration.
 
-🛡️ **Security Monitoring & Incident Response**
+🛡️ Security Monitoring & Incident Response
+> Investigated Linux authentication events and system logs using Splunk Enterprise.
 
 ---
 
@@ -49,6 +54,17 @@ I'm currently building hands-on cybersecurity projects and documenting my invest
 - Digital Forensics
 - TryHackMe Labs
 - CTF Challenges
+
+---
+## 🧰 Tools
+
+- Splunk Enterprise
+- Kali Linux
+- Wireshark
+- Nmap
+- Burp Suite
+- CyberChef
+- VirusTotal
 
 ---
 
