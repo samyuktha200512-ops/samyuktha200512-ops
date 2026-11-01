@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samyuktha
 
-**AI & ML Graduate | Cybersecurity | Blue Team & Security Operations**
+**AI & ML Graduate | Cybersecurity | Blue Team & Security Operations | SOC Learning**
 
 Interested in security monitoring, threat investigation, and developing practical skills in Security Operations.
 
